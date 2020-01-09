@@ -3,7 +3,7 @@ var http = require('http');
 
 let output = ['']
 
-    const key = 'RGAPI-f5c263a7-1137-4c1c-b9a7-4cdef0738fcd';
+    const key = '';
     const URLKEY = '?api_key=';
     const port = '8080';
 
