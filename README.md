@@ -1,5 +1,3 @@
-# API-RIOT-NODEJS
-
 A code in nodejs!
 
 It allows you to display nicks, current leagues, stats, wins or losses.
@@ -31,3 +29,5 @@ Add to your player base
 const PLAYERNAME = 'ZHd2VXBU5vuGumSIty1WXq5OqWu0XpAfXG8TyjIgDSwAGlU';
 
 }
+
+After => npm start
