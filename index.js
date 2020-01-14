@@ -5,7 +5,7 @@ let output = ['']
 
     const key = '';
     const URLKEY = '?api_key=';
-    const port = '8080';
+    const port = process.env.PORT || 8080;
 
     
     const EU = 'https://euw1.api.riotgames.com/lol/league/v4/entries/by-summoner/';
